@@ -1,5 +1,6 @@
 # SAHAYAK
-![](https://github.com/vanshu25/Sahayak/blob/master/images/gallery.jpg=100x20)
+<img src="https://github.com/vanshu25/Sahayak/blob/master/images/gallery.jpg" width="200" height="200" />
+
 
 
 ## __About SAHAYAK__ :
