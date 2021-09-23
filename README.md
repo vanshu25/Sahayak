@@ -24,6 +24,12 @@ __TechStack__: Android Studio, Tensorflow, Tensorflow-lite, Machine Learning, Ke
 
 Here are some screenshots of the app:
 
+![](https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(435).png)
+![](https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(436).png)
+
+
+
+
 
 * DEPRESSION26 is the Jupyter Notebook file which contains ML model that I have created to predict mental health condition.
 
