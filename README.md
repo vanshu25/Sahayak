@@ -27,11 +27,8 @@ Here are some screenshots of the app:
 
 <p float="left">
 <img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(435).png" width="200" height="400" />
-<img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(437).png"  width="200" height="400" />
-<img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(438).png"  width="200" height="400" />
 <img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(439).png"  width="200" height="400" />
 <img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(440).png"  width="200" height="400" />
-<img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(441).png"  width="200" height="400" />
 <img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(442).png"  width="200" height="400" />
 
 </p>
