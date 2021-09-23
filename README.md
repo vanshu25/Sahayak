@@ -27,7 +27,7 @@ Here are some screenshots of the app:
 
 <p float="left">
 <img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(435).png" width="200" height="400" />
-<img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(437).png" align="left" width="200" height="400" />
+<img src="https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(437).png"  width="200" height="400" />
 </p>
 
 
