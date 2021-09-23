@@ -5,6 +5,7 @@
 ## __About SAHAYAK__ :
 
 __SAHAYAK__ is an android mobile application which is integrated with Machine Learning that predicts depression based on user's responses to some daily life questions. 
+
 __TechStack__: Android Studio, Tensorflow, Tensorflow-lite, Machine Learning, Keras, Java, XML, Python
 
 * Extract the SAHAYAK.zip file and open the extracted folder "SAHAYAK" in the Android Studio. You will see all the files and then you can just run the app in the Studio. You will see the home page of app where you can press on START button to proceed. Then you have to answer questions in order to see the prediction. 
