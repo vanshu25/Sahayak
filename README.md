@@ -1,7 +1,7 @@
 # Sahayak
 Be your own SAHAYAK
 
-
+![](https://github.com/vanshu25/Sahayak/blob/master/Screenshot__185_-removebg-preview.png)
 
 * Extract the SAHAYAK.zip file and open the extracted folder "SAHAYAK" in the Android Studio. You will see all the files and then you can just run the app in the Studio.
 
