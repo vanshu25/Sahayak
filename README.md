@@ -1,5 +1,5 @@
 # SAHAYAK
-![](https://github.com/vanshu25/Sahayak/blob/master/images/gallery.jpg)
+![](https://github.com/vanshu25/Sahayak/blob/master/images/gallery.jpg=100x20)
 
 
 ## __About SAHAYAK__ :
@@ -24,8 +24,7 @@ __TechStack__: Android Studio, Tensorflow, Tensorflow-lite, Machine Learning, Ke
 
 Here are some screenshots of the app:
 
-![](https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(435).png)
-![](https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(436).png)
+![](https://github.com/vanshu25/Sahayak/blob/master/images/Screenshot%20(435).png=100x20)
 
 
 
