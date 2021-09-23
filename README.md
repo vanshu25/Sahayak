@@ -1,7 +1,6 @@
 # SAHAYAK
-Be your own SAHAYAK
+![](https://github.com/vanshu25/Sahayak/blob/master/images/gallery.jpg)
 
-![](https://github.com/vanshu25/Sahayak/blob/master/Screenshot__185_-removebg-preview.png)
 
 ## __About SAHAYAK__ :
 
